@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PortalWeb/PortalWeb.csproj" />
+  <Project Path="RegistrationApi/RegistrationApi.csproj" />
+</Solution>
